@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ARIN JAIN\\Documents\\MINOR_2\\MINOR\\src\\contracts\\Crowdfund.sol": {
+      "lastModificationDate": 1717421593346,
+      "contentHash": "32b9a8bbccd8b5628abec27a78d22d5b",
+      "sourceName": "src/contracts/Crowdfund.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Crowdfund"
+      ]
+    }
+  }
+}
